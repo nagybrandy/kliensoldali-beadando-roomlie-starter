@@ -1,3 +1,4 @@
+```
 <Hallgató neve>
 <Neptun kódja>
 Kliensoldali webprogramozás - beadandó
@@ -10,6 +11,7 @@ amíg egy hallgató egy másik hallgató munkáját - vagy legalábbis annak jel
 saját munkájaként mutatja be, az fegyelmi vétségnek számít.
 A fegyelmi vétség legsúlyosabb következménye a hallgató elbocsátása az egyetemről.
 
+```
 ## Pontozás
 
 - [ ] React használata (kötelező)
